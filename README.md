@@ -7,3 +7,4 @@ Languages:
  * Day 3: Java
  * Day 4: C++
  * Day 5: C#
+ * Day 6: Javascript (Visual Basic is fucked)
