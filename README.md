@@ -8,3 +8,4 @@ Languages:
  * Day 4: C++
  * Day 5: C#
  * Day 6: Javascript (Visual Basic is fucked)
+ * Day 7: PHP
